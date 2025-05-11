@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background: #f5f0e6;
+  color: #2c1e1e;
+}
+
+header {
+  background: #5d3a00;
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+nav {
+  background: #8b5e3c;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: #5d3a00;
+}
+
+footer {
+  background: #5d3a00;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
